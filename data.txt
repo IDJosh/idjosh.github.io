@@ -1,4 +1,0 @@
-<div>
- <h1>Dit is mijn hoofdstuk</h1>
- <p>Dit is nu een stuk tekst.</P>
-</div>
